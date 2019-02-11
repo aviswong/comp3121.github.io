@@ -4,7 +4,7 @@
     var queryString = window.location.search.slice(1);
     // if query string exsists
     if (queryString) {
-    qString = queryString.split('q=')[1].spilt('&')[0];
+    qString = queryString.split('q=')[1].split('&')[0];
     alert(qString);
     }
     </script>
