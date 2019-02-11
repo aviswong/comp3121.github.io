@@ -1,3 +1,5 @@
 theme: jekyll-theme-merlot
-#Google_Analysistics
-google_analysistic: UA-134270355-1
+#Google_Analytics
+google_analytic: UA-134270355-1
+
+
