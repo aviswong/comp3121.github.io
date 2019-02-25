@@ -1,7 +1,6 @@
 <html>
 <head>
-  <title> Comp3121  </title>
-  <script type="text/javascript">
+    <script type="text/javascript">
     var queryString = window.location.search.slice(1);
     // if query string exsists
     if (queryString) {
@@ -9,6 +8,9 @@
     alert(qString);
     }
     </script>
+  
+  <title> Comp3121  </title>
+
 </head>  
   <body>
     TBO
